@@ -1,8 +1,6 @@
 # A Gruppe6 Job for QBCore Framework
 
 
-aaaaaa
-
 ## Please note
 
 - Please make sure u use the latest dependencies aswell as core for this in order to work.
